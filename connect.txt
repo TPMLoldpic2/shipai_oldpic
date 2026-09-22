@@ -1,0 +1,8 @@
+# 臺北跨時空：外部連結設定
+# 以後只要改最後面的 LINK 欄，不需要修改 index.html。
+# 網址建議使用 https:// 開頭。
+
+| NO | 類別 | ITEM | LINK |
+| -- | ---- | ---- | ---- |
+| 1 | 活動資訊 | https://archive.tpml.edu.tw/TaipeiLib/wSite/sp?xdUrl=/wSite/ap/exhibitionC_lp.jsp&mp=3&ctNode=380&id=38&unit=217 | |
+| 2 | 問卷調查 | https://archive.tpml.edu.tw/TaipeiLib/wSite/sp?xdUrl=/wSite/ap/exhibitionC_lp.jsp&mp=3&ctNode=380&id=38&unit=217 | |
